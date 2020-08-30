@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg-primary {
+    background: url("./images/onepunch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-warning {
+    background-color: yellow;
+}
+
+.bg-danger {
+    background-color: blue;
+}
